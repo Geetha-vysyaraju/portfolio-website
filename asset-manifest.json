@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.e268b193.css",
+    "main.js": "/portfolio-website/static/js/main.6e85cfa5.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio-website/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-website/static/js/787.1ed0c42c.chunk.js",
+    "static/media/geethvysyaraju.png": "/portfolio-website/static/media/geethvysyaraju.88e0a66547b9d30af481.png",
+    "static/media/home1.png": "/portfolio-website/static/media/home1.129eea065243f6938fa1.png",
+    "static/media/codeEditor.png": "/portfolio-website/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/Geetha-Vysyaraju.pdf": "/portfolio-website/static/media/Geetha-Vysyaraju.db9a1fcdb95d5a58f24e.pdf",
+    "static/media/blog.png": "/portfolio-website/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/chatify.png": "/portfolio-website/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/portfolio-website/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/portfolio-website/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio-website/index.html",
+    "main.e268b193.css.map": "/portfolio-website/static/css/main.e268b193.css.map",
+    "main.6e85cfa5.js.map": "/portfolio-website/static/js/main.6e85cfa5.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio-website/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-website/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e268b193.css",
+    "static/js/main.6e85cfa5.js"
+  ]
+}
